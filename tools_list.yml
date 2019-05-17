@@ -471,6 +471,16 @@ tools:
   tool_panel_section_label: 'SAM Tools'
   revisions:
   - '020e144b5f78'
+- name: 'bcftools_call'
+  owner: 'iuc'
+  tool_panel_section_label: 'BCF Tools'
+  revisions:
+  - '0fba2c15b40d'
+- name: 'bcftools_mpileup'
+  owner: 'iuc'
+  tool_panel_section_label: 'BCF Tools'
+  revisions:
+  - 'cf06b44624c7'
 - name: 'naive_variant_caller'
   owner: 'blankenberg'
   tool_panel_section_label: 'Variant Detection'
