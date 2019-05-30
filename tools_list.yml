@@ -33,9 +33,7 @@ tools:
   owner: 'devteam'
   tool_panel_section_label: 'NGS: QC and manipulation'
   revisions:
-  - 'c15237684a01'  # v0.72
-  - '8c650f7f76e9'  # v0.63
-  - 'e28c965eeed4'  # v0.52
+  - 'e7b2202befea'
 - name: 'short_reads_trim_seq'
   owner: 'devteam'
   tool_panel_section_label: 'NGS: QC and manipulation'
